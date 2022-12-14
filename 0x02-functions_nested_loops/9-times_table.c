@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * timse_table - print the 9 times table, starting with 0
- * Return: lways 0 (Success)
  */
 void times_table(void)
 {
