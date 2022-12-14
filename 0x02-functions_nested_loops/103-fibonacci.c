@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - finds and prints th sum of the even-valued terms
  * followed by a new line
