@@ -3,7 +3,7 @@
  * time_table - print the 9 times table
  * Return: lways 0 (Success)
  */
-void times_table(void)
+void time_table(void)
 {
 	int a, b, c;
 
