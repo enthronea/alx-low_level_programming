@@ -41,7 +41,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	r[k] = '\0';
 	if (i >= 0 || j >= 0 || m)
 		return (0);
-	for (k -= 1, l = 0; < k; k--, l++)
+	for (k -= 1, l = 0; l < k; k--, l++)
 	{
 		m = r[k];
 		r[k] = r[l];
